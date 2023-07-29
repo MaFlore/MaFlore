@@ -12,7 +12,7 @@
 
 🤝 Je suis ouvert aux opportunités professionnelles, que ce soit des projets en freelance ou des collaborations au sein d'équipes. Je suis également passionné par les projets open source et la communauté du développement.
 
-📫 Contact : florentahadjitse2002@gmail.com
+📫 Contact : **florentahadjitse2002@gmail.com**
 
 N'hésitez pas à utiliser cette bio sur votre profil GitHub et à mettre en valeur votre passion pour le développement web ! Bon codage ! 🚀
 
